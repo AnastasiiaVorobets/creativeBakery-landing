@@ -1,6 +1,13 @@
-# creativeBakery-landing
-Responsive web page based on Figma grid layout using HTML, CSS and SASS;
+# creativeBakery-landing ("The Baking Palette")
+The website of the bakery, which allows users to purchase baked goods. The website contains brief information about the bakery and its achievements.
 
-- [DEMO LINK](https://anastasiiavorobets.github.io/creativeBakery-landing/)
+Technologies:
+  HTML,
+  CSS (SASS)
 
+
+DESIGN:
 - [FIGMA DESIGN](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?type=design&node-id=11342-1117)
+
+DEMO LINK:
+- [DEMO LINK](https://anastasiiavorobets.github.io/creativeBakery-landing/)
